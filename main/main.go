@@ -4,4 +4,5 @@ import "fmt"
 
 func main() {
 	fmt.Println("This is my first commit.")
+	scenario1()
 }
